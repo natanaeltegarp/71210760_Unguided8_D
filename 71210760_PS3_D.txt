@@ -1,0 +1,15 @@
+inisialisasi variabel untuk angka yang menjadi faktorial
+inisialisasi variabel untuk hasil dengan nilai awal 1
+inisialisasi variabel untuk counter dengan nilai awal 1
+
+if faktorial lebih dari 0, then
+	while counter kurang dari atau sama dengan faktorial, do
+		hasil = hasil * counter
+		tambahkan counter sebesar 1
+	end while
+	tampilkan hasil
+else 
+	if faktorial sama dengan 0, then
+		tampilkan hasil
+	else
+		tampilkan "tak terdefinisi"
